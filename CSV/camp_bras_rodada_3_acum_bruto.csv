@@ -1,0 +1,795 @@
+"","Nome","Clube","Preço","J","Média","Últ. Pont.","Variação","RB","G","A","SG","FS","FF","FD","FT","DD","DP","GC","CV","CA","PP","GS","FC","I","PE"
+"1","Lucas Paquetá (MEI)","Flamengo","23,56",3,"13,30","18,70","3,66",12,1,1,NA,13,3,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,11
+"2","Serginho (MEI)","América-MG","20,79",3,"12,13","14,90","3,13",5,2,2,NA,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,3,1,9
+"3","Otero (MEI)","Atlético-MG","20,06",3,"11,87","7,80","0,23",5,1,NA,NA,10,5,6,3,NA,NA,NA,NA,NA,NA,NA,4,2,7
+"4","Gustavo Blanco (MEI)","Atlético-MG","18,65",3,"11,73","13,10","2,57",15,NA,2,NA,1,NA,3,2,NA,NA,NA,NA,1,NA,NA,8,1,3
+"5","Wallyson (ATA)","Vitória","9,20",1,"11,70","11,70","3,20",1,NA,1,NA,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,2
+"6","Rodriguinho (MEI)","Corinthians","24,02",3,"10,80","0,00","-3,57",2,3,1,NA,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,9
+"7","Rafael (GOL)","Cruzeiro","7,71",1,"10,50","10,50","1,71",NA,NA,NA,1,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,1,NA,NA
+"8","Thiago Carleto (LAT)","Atlético-PR","17,32",3,"10,37","10,70","1,74",3,1,1,2,4,1,2,1,NA,NA,NA,NA,NA,NA,NA,2,NA,12
+"9","Víctor Cuesta (ZAG)","Internacional","17,81",3,"10,10","14,50","3,24",17,NA,NA,2,3,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,7,NA,4
+"10","Vinicius Junior (ATA)","Flamengo","16,53",3,"10,03","15,30","3,23",1,2,2,NA,6,2,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,12
+"11","Sidcley (LAT)","Corinthians","13,89",3,"9,93","4,30","-1,26",8,1,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4
+"12","Nino Paraíba (LAT)","Bahia","15,01",3,"9,87","13,10","2,66",11,NA,NA,2,9,2,2,NA,NA,NA,NA,NA,1,NA,NA,2,NA,8
+"13","Matheus Fernandes (MEI)","Botafogo","14,96",3,"9,37","10,30","1,65",13,NA,1,NA,1,2,1,1,NA,NA,NA,NA,NA,NA,NA,3,NA,4
+"14","Bruno Alves (ZAG)","São Paulo","12,23",2,"9,20","6,20","1,07",2,1,NA,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"15","Bruno Cortez (LAT)","Grêmio","15,48",2,"9,10","0,00","0,00",6,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6
+"16","Richard (MEI)","Fluminense","17,09",3,"9,03","6,90","0,56",12,1,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4
+"17","Éder Militão (LAT)","São Paulo","14,44",3,"8,83","11,50","2,10",8,1,NA,2,2,2,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,7
+"18","Jailson (GOL)","Palmeiras","15,07",2,"8,55","0,00","0,00",NA,NA,NA,1,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,1,NA,NA,3
+"19","Santos (GOL)","Atlético-PR","10,51",3,"8,47","16,70","4,23",NA,NA,NA,2,NA,NA,NA,NA,6,NA,NA,NA,NA,NA,1,NA,NA,2
+"20","Réver (ZAG)","Flamengo","17,78",3,"8,23","6,30","-0,24",1,1,NA,2,5,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"21","Rodrigo Moledo (ZAG)","Internacional","10,68",2,"8,15","8,00","1,52",3,NA,NA,2,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+"22","Gatito Fernández (GOL)","Botafogo","14,65",2,"8,05","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,2,NA,NA,3
+"23","Robinho (ATA)","Fluminense","5,47",1,"8,00","8,00","1,47",NA,NA,1,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"24","Marcelo Grohe (GOL)","Grêmio","18,65",2,"7,85","0,00","0,00",NA,NA,NA,2,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1
+"25","Fabiano (LAT)","Internacional","9,82",2,"7,85","9,30","1,97",5,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,7
+"26","Gabriel (MEI)","Corinthians","11,85",2,"7,80","5,10","-0,32",8,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,3
+"27","Rodinei (LAT)","Flamengo","11,84",3,"7,80","13,10","3,03",4,NA,1,2,7,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+"28","Vanderlei (GOL)","Santos","20,44",2,"7,75","0,00","0,00",NA,NA,NA,1,1,NA,NA,NA,4,NA,NA,NA,NA,NA,1,NA,NA,NA
+"29","Thiago Heleno (ZAG)","Atlético-PR","10,99",1,"7,70","0,00","0,00",2,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"30","Murilo (ZAG)","Cruzeiro","8,90",1,"7,70","7,70","-0,10",2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"31","Guerra (MEI)","Palmeiras","10,06",1,"7,60","0,00","0,00",1,1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,4
+"32","Luan (ATA)","Atlético-MG","14,92",3,"7,50","6,80","0,60",17,NA,NA,NA,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,8,1,10
+"33","Balbuena (ZAG)","Corinthians","17,67",3,"7,50","3,40","-1,59",13,NA,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,10
+"34","Ezequiel  (LAT)","Cruzeiro","5,30",1,"7,50","7,50","1,30",4,NA,NA,1,3,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,5
+"35","Renê (LAT)","Flamengo","10,43",3,"7,50","10,80","2,28",10,NA,NA,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,11
+"36","Everton (ATA)","Grêmio","13,16",2,"7,50","0,00","0,00",2,NA,1,NA,2,4,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"37","Ayrton Lucas (LAT)","Fluminense","11,87",3,"7,37","7,90","1,01",8,NA,NA,1,15,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,4
+"38","Norberto  (LAT)","América-MG","12,56",3,"7,30","7,60","1,32",11,NA,NA,1,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,6
+"39","Zé Rafael  (MEI)","Bahia","17,19",3,"7,23","7,30","0,08",9,NA,NA,NA,11,4,4,1,NA,NA,NA,NA,1,NA,NA,9,NA,6
+"40","Christian (MEI)","América-MG","11,21",2,"7,20","0,00","0,00",7,NA,NA,NA,6,2,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"41","Pedro (ATA)","Fluminense","11,90",3,"7,20","9,50","1,82",1,2,1,NA,4,1,2,NA,NA,NA,NA,NA,1,NA,NA,7,NA,2
+"42","Patrick (MEI)","Internacional","14,89",3,"7,20","5,80","0,18",11,NA,1,NA,6,2,2,NA,NA,NA,NA,NA,NA,NA,NA,9,NA,8
+"43","Léo Moura (LAT)","Grêmio","11,58",2,"7,10","0,00","0,00",2,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"44","Cléber Reis (ZAG)","Paraná","5,84",1,"7,00","7,00","0,84",4,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"45","Yago Pikachu (LAT)","Vasco","14,15",2,"6,95","0,00","0,00",1,1,NA,NA,4,2,1,1,NA,NA,NA,NA,NA,NA,NA,1,1,8
+"46","Léo (LAT)","Bahia","10,30",3,"6,93","10,40","2,28",7,NA,NA,2,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,2,2,4
+"47","Léo Cittadini (MEI)","Santos","10,44",2,"6,85","0,00","0,00",9,NA,NA,NA,4,2,1,NA,NA,NA,NA,NA,1,NA,NA,3,1,2
+"48","Clayson (ATA)","Corinthians","11,94",3,"6,83","4,20","-0,54",6,1,1,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,6
+"49","Pedro Geromel (ZAG)","Grêmio","16,90",1,"6,70","0,00","0,00",3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"50","Rogério (ATA)","Sport","8,66",2,"6,70","10,00","2,30",1,1,NA,NA,6,1,2,NA,NA,NA,NA,NA,NA,NA,NA,2,2,1
+"51","Maurício Barbieri (TEC)","Flamengo","12,25",3,"6,70","8,72","1,30",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"52","Rodrigo Caio (ZAG)","São Paulo","12,76",2,"6,55","0,00","0,00",3,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"53","Cuéllar (MEI)","Flamengo","11,60",3,"6,40","12,00","2,90",11,NA,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,2
+"54","Jhonny Lucas (MEI)","Paraná","5,98",2,"6,30","10,50","2,98",6,1,NA,NA,2,3,1,NA,NA,NA,NA,NA,1,NA,NA,11,NA,5
+"55","Wagner (MEI)","Vasco","13,00",2,"6,25","0,00","0,00",2,1,NA,NA,4,1,3,NA,NA,NA,NA,NA,1,NA,NA,2,2,3
+"56","Nico López (ATA)","Internacional","16,07",3,"6,23","0,80","-1,34",1,2,NA,NA,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,8
+"57","Arthur (MEI)","Grêmio","15,08",2,"6,20","0,00","0,00",6,NA,NA,NA,9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"58","Maílson (GOL)","Sport","4,71",2,"6,20","9,70","2,87",NA,NA,1,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,2,NA,NA,2
+"59","Róger Guedes (ATA)","Atlético-MG","8,89",3,"6,07","7,50","1,08",2,2,NA,NA,9,2,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,8
+"60","Nikão (MEI)","Atlético-PR","13,61",3,"6,00","4,60","-0,02",3,1,NA,NA,7,3,2,NA,NA,NA,NA,NA,NA,NA,NA,1,1,6
+"61","Edu Dracena (ZAG)","Palmeiras","7,46",1,"6,00","0,00","0,00",NA,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"62","Arrascaeta (MEI)","Cruzeiro","15,74",2,"6,00","0,00","0,00",5,NA,NA,NA,5,1,4,1,NA,NA,NA,NA,1,NA,NA,5,NA,7
+"63","Bruno Silva (MEI)","Cruzeiro","7,60",1,"5,90","5,90","-0,40",3,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+"64","Fábio Carille (TEC)","Corinthians","13,27",3,"5,88","3,11","-1,09",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"65","Paulo André (ZAG)","Atlético-PR","8,08",2,"5,80","6,70","1,09",3,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,3
+"66","Jandrei (GOL)","Chapecoense","8,18",3,"5,80","20,20","6,20",NA,NA,NA,1,2,NA,NA,NA,8,NA,NA,NA,NA,NA,6,NA,NA,2
+"67","Léo Duarte (ZAG)","Flamengo","5,92",1,"5,70","0,00","0,00",NA,NA,NA,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"68","Thiago Galhardo (MEI)","Vasco","9,15",2,"5,65","0,00","0,00",1,NA,2,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5
+"69","Carlinhos (LAT)","América-MG","13,58",3,"5,63","1,10","-0,98",4,1,NA,1,2,1,3,NA,NA,NA,NA,NA,1,NA,NA,7,1,5
+"70","Rhayner (ATA)","Vitória","10,08",3,"5,63","4,60","0,27",4,NA,1,NA,9,3,2,1,NA,NA,NA,NA,1,NA,NA,4,NA,8
+"71","Claudinei Oliveira (TEC)","Sport","6,50",1,"5,63","5,63","0,68",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"72","Marquinhos (ATA)","América-MG","7,92",2,"5,60","10,40","2,66",2,1,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"73","Henrique (MEI)","Cruzeiro","11,91",2,"5,60","0,00","0,00",7,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"74","Enderson Moreira (TEC)","América-MG","10,50",3,"5,55","4,65","0,53",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"75","Manoel (ZAG)","Cruzeiro","6,06",1,"5,50","5,50","0,06",NA,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"76","Weverton (GOL)","Palmeiras","8,88",1,"5,50","5,50","-1,12",NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"77","Leandro Carvalho (ATA)","Botafogo","5,86",1,"5,50","0,00","0,00",2,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"78","Jonathan (LAT)","Atlético-PR","9,63",2,"5,45","4,70","-0,15",1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"79","Elton (MEI)","Bahia","9,02",3,"5,43","4,30","0,05",11,NA,1,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,11,NA,6
+"80","Yago (MEI)","Vitória","11,55",3,"5,43","2,20","-0,86",8,1,NA,NA,7,3,2,NA,NA,NA,NA,NA,2,NA,NA,6,1,15
+"81","Paulo Miranda (ZAG)","Grêmio","7,76",2,"5,40","5,70","0,80",4,NA,NA,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5
+"82","Dodô (LAT)","Santos","12,33",2,"5,40","0,00","0,00",5,NA,NA,1,4,1,1,NA,NA,NA,NA,NA,1,NA,NA,2,NA,9
+"83","Éverson (GOL)","Ceará","9,01",3,"5,33","3,00","-0,56",NA,NA,NA,1,NA,NA,NA,NA,7,NA,NA,NA,NA,NA,5,NA,NA,NA
+"84","Diego Aguirre (TEC)","São Paulo","10,65",3,"5,29","3,80","-0,21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"85","Marlone (MEI)","Sport","9,52",3,"5,23","12,00","3,05",3,1,NA,NA,4,1,5,NA,NA,NA,NA,NA,1,NA,NA,2,1,7
+"86","Fernando Diniz (TEC)","Atlético-PR","10,21",3,"5,22","5,44","0,66",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"87","Rafael Moura (ATA)","América-MG","11,21",3,"5,20","8,80","1,74",2,1,1,NA,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,6,1,12
+"88","Matheus Rossetto (MEI)","Atlético-PR","12,36",3,"5,20","4,10","0,23",7,1,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,1,9
+"89","Lucca (ATA)","Internacional","7,37",1,"5,20","5,20","-0,63",NA,NA,NA,NA,3,1,2,1,NA,NA,NA,NA,1,NA,NA,1,NA,NA
+"90","Marcelo Lomba (GOL)","Internacional","7,72",1,"5,20","0,00","0,00",NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"91","Cássio (GOL)","Corinthians","10,82",3,"5,13","3,70","-0,66",NA,NA,NA,1,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,2,NA,NA,2
+"92","Raul Prata (LAT)","Sport","10,24",3,"5,13","4,20","0,17",11,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,8
+"93","Brenner (ATA)","Botafogo","7,54",3,"5,13","12,20","3,42",2,1,NA,NA,7,2,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"94","Cazares (MEI)","Atlético-MG","11,09",1,"5,10","0,00","0,00",2,NA,NA,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"95","Vinícius Freitas (LAT)","Chapecoense","4,26",1,"5,10","0,00","0,00",2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,3
+"96","Thiago Larghi (TEC)","Atlético-MG","8,65",3,"5,05","6,52","1,16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"97","Luan (ATA)","Grêmio","16,04",2,"5,05","1,70","-2,28",1,NA,NA,NA,7,6,1,1,NA,NA,NA,NA,NA,NA,NA,3,NA,8
+"98","Rodrygo (ATA)","Santos","11,17",2,"5,05","0,00","0,00",1,1,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,3
+"99","Cueva (MEI)","São Paulo","13,01",2,"5,05","0,00","0,00",4,NA,1,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,8
+"100","Marcos Rocha (LAT)","Palmeiras","9,97",3,"5,03","9,10","1,37",8,NA,NA,2,3,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,13
+"101","Léo (LAT)","Fluminense","4,48",1,"5,00","5,00","0,48",3,NA,NA,NA,2,1,NA,1,NA,NA,NA,NA,1,NA,NA,3,1,1
+"102","Keno (ATA)","Palmeiras","9,78",3,"5,00","6,60","0,80",9,NA,NA,NA,10,1,2,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,14
+"103","Lucas Fonseca (ZAG)","Bahia","7,56",2,"5,00","4,50","0,31",NA,NA,NA,2,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4
+"104","Luan Peres  (ZAG)","Fluminense","6,33",1,"5,00","0,00","0,00",NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"105","Júnior Tavares (LAT)","São Paulo","7,58",1,"5,00","0,00","0,00",1,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,NA
+"106","Arboleda (ZAG)","São Paulo","10,00",2,"5,00","-0,50","-2,17",3,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"107","Fellipe Bastos (MEI)","Sport","6,93",3,"4,97","12,00","3,45",5,NA,1,NA,NA,4,3,NA,NA,NA,NA,NA,NA,NA,NA,3,1,8
+"108","Alison (MEI)","Santos","9,19",2,"4,95","0,00","0,00",6,NA,NA,NA,6,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,3
+"109","Lucas Veríssimo (ZAG)","Santos","9,53",2,"4,95","0,00","0,00",3,NA,NA,1,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+"110","Anselmo (MEI)","Sport","10,69",3,"4,90","5,10","0,45",10,NA,NA,NA,8,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,8
+"111","Henrique Dourado (ATA)","Flamengo","14,25",3,"4,87","-1,80","-3,51",NA,2,NA,NA,7,2,NA,NA,NA,NA,NA,NA,1,NA,NA,5,1,5
+"112","Gilson (LAT)","Botafogo","7,88",3,"4,87","7,40","1,63",7,1,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,13
+"113","Alisson (MEI)","Grêmio","8,06",2,"4,85","4,80","0,36",3,NA,NA,NA,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+"114","Odair Hellmann (TEC)","Internacional","9,85",3,"4,85","5,25","0,77",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"115","Raphael Alemão (ATA)","Paraná","4,45",2,"4,85","3,10","0,26",3,NA,NA,NA,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3
+"116","Luan (ATA)","América-MG","12,04",3,"4,83","3,40","-0,06",7,NA,1,NA,4,2,1,NA,NA,NA,NA,NA,1,NA,NA,3,1,6
+"117","Jair Ventura (TEC)","Santos","11,62",2,"4,82","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"118","Dudu (ATA)","Palmeiras","15,88",3,"4,77","2,00","-2,08",2,1,1,NA,5,1,3,NA,NA,NA,NA,NA,2,NA,NA,2,NA,12
+"119","Antônio Carlos  (ZAG)","Palmeiras","9,11",3,"4,77","8,70","1,80",2,NA,NA,2,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,2,1,4
+"120","Wellington Paulista (ATA)","Chapecoense","11,24",3,"4,77","-1,20","-2,18",2,2,NA,NA,4,4,NA,NA,NA,NA,NA,NA,2,NA,NA,6,4,3
+"121","Petros (MEI)","São Paulo","9,21",2,"4,75","2,00","-0,99",6,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA
+"122","Régis (LAT)","São Paulo","8,00",3,"4,70","4,10","0,32",5,NA,NA,2,1,1,1,NA,NA,NA,NA,NA,1,NA,NA,3,NA,8
+"123","Everton Felipe (MEI)","Sport","6,32",2,"4,65","0,00","0,00",1,1,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5
+"124","Guto Ferreira (TEC)","Bahia","8,46",3,"4,64","5,80","0,79",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"125","Éderson (ATA)","Atlético-PR","9,50",2,"4,55","0,00","0,00",2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3
+"126","Hudson (MEI)","São Paulo","9,37",2,"4,55","0,00","0,00",6,NA,NA,NA,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,4
+"127","Gregore (MEI)","Bahia","7,39",3,"4,53","2,90","-0,06",13,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,14,NA,4
+"128","Luiz Otávio  (ZAG)","Chapecoense","5,73",1,"4,50","4,50","-0,27",NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"129","Rodrigo Becão (ZAG)","Bahia","3,61",1,"4,50","4,50","0,61",NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+"130","Everson (ZAG)","Bahia","3,61",1,"4,50","4,50","0,61",NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"131","Renatinho (MEI)","Botafogo","4,31",1,"4,50","4,50","0,31",2,NA,NA,NA,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3
+"132","Ezequiel (ATA)","Botafogo","6,00",2,"4,50","6,80","1,55",2,NA,1,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"133","Andrés Ríos (ATA)","Vasco","6,29",2,"4,45","0,00","0,00",1,1,NA,NA,3,NA,2,NA,NA,NA,NA,NA,1,NA,NA,5,NA,NA
+"134","Fagner (LAT)","Corinthians","11,70",3,"4,40","-0,30","-2,41",5,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,11
+"135","Renato Gaúcho (TEC)","Grêmio","13,31",3,"4,37","1,35","-1,44",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"136","Douglas (ZAG)","Chapecoense","7,13",3,"4,33","7,50","1,70",6,NA,NA,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,1
+"137","Carlos (ATA)","Paraná","5,28",2,"4,30","4,60","0,78",2,NA,NA,NA,5,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"138","Abel Braga (TEC)","Fluminense","10,21",3,"4,30","3,85","-0,18",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"139","Jori (GOL)","América-MG","9,74",3,"4,27","0,10","-0,82",NA,NA,NA,1,1,NA,NA,NA,5,NA,NA,NA,NA,NA,3,1,NA,4
+"140","Victor (GOL)","Atlético-MG","11,57",3,"4,27","7,70","1,22",NA,NA,NA,1,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,3,NA,NA,4
+"141","Alberto Valentim (TEC)","Botafogo","8,72",3,"4,27","4,66","0,45",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"142","Pio (MEI)","Ceará","6,53",2,"4,25","0,00","0,00",10,NA,NA,NA,1,2,NA,NA,NA,NA,1,NA,NA,NA,NA,3,NA,7
+"143","Roger Machado  (TEC)","Palmeiras","10,16",3,"4,21","4,19","-0,21",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"144","Jean Mota (MEI)","Santos","8,83",2,"4,20","0,00","0,00",4,NA,NA,NA,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,9
+"145","Sander (LAT)","Sport","8,20",3,"4,20","8,00","1,73",8,NA,NA,NA,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,2
+"146","Iago (LAT)","Internacional","9,72",3,"4,17","3,10","-0,01",7,NA,NA,2,2,1,NA,NA,NA,NA,NA,NA,2,NA,NA,5,NA,11
+"147","Diogo Barbosa (LAT)","Palmeiras","9,71",3,"4,17","1,10","-1,69",5,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,6,NA,10
+"148","Jucilei (MEI)","São Paulo","7,81",2,"4,15","7,70","0,51",7,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,4
+"149","Edenílson (MEI)","Internacional","10,22",3,"4,13","2,20","-0,44",5,NA,1,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"150","Gabriel (ATA)","Santos","13,13",2,"4,00","0,00","0,00",4,NA,NA,NA,2,7,1,NA,NA,NA,NA,NA,NA,NA,NA,5,3,6
+"151","Mansur (LAT)","Paraná","5,90",2,"3,95","0,00","0,00",4,NA,NA,NA,3,NA,1,1,NA,NA,NA,NA,NA,NA,NA,4,NA,6
+"152","Rodrigo Dourado (MEI)","Internacional","10,22",3,"3,90","1,40","-0,79",11,NA,NA,NA,3,NA,1,NA,NA,NA,NA,NA,1,NA,NA,7,1,5
+"153","Daniel Guedes  (LAT)","Santos","8,82",2,"3,90","0,00","0,00",3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4
+"154","Rodrigo Lindoso (MEI)","Botafogo","7,73",3,"3,90","-0,10","-1,47",2,1,NA,NA,5,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,9
+"155","Liziero (LAT)","São Paulo","4,44",2,"3,90","-0,40","-1,13",4,NA,NA,1,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,5
+"156","Zé Ricardo (TEC)","Vasco","9,71",2,"3,88","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"157","Silvinho (ATA)","Paraná","6,11",3,"3,87","7,10","1,72",4,NA,NA,NA,8,1,4,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,5
+"158","Pedro Botelho (LAT)","Vitória","7,00",3,"3,87","6,80","1,55",4,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,9
+"159","Guilherme (MEI)","Atlético-PR","8,61",2,"3,85","2,00","-0,83",3,NA,NA,NA,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+"160","Tiago Alves (ZAG)","Ceará","4,41",2,"3,85","-0,80","-1,29",2,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"161","Rafael Carioca (LAT)","Ceará","4,79",3,"3,83","2,70","-0,18",6,NA,NA,1,2,2,2,NA,NA,NA,NA,NA,1,NA,NA,4,1,10
+"162","Aylon (ATA)","América-MG","8,18",3,"3,80","2,50","-0,24",3,NA,NA,NA,5,6,NA,1,NA,NA,NA,NA,NA,NA,NA,5,NA,3
+"163","Marcos Guilherme  (ATA)","São Paulo","10,22",2,"3,80","2,20","-1,77",4,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,2,1,3
+"164","Richardson (MEI)","Ceará","5,50",1,"3,80","3,80","-0,50",1,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+"165","Paulão (ZAG)","Vasco","6,73",2,"3,80","0,00","0,00",5,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4
+"166","Juninho (MEI)","América-MG","6,41",3,"3,77","1,90","-0,39",8,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5
+"167","Gum (ZAG)","Fluminense","5,58",3,"3,77","1,50","-0,70",2,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,5
+"168","Tiago  (ZAG)","Bahia","7,53",2,"3,75","0,00","0,00",2,NA,NA,1,2,3,1,NA,NA,NA,NA,NA,NA,NA,NA,8,1,2
+"169","Bruno Guimarães (MEI)","Atlético-PR","6,88",3,"3,73","5,40","1,19",6,NA,NA,NA,16,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,6
+"170","Emerson Sheik (ATA)","Corinthians","8,58",2,"3,70","0,90","-1,41",NA,NA,1,NA,5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"171","Sidão (GOL)","São Paulo","10,00",3,"3,70","-2,30","-2,47",NA,NA,NA,2,NA,NA,NA,NA,2,NA,NA,NA,1,NA,1,NA,NA,3
+"172","Denilson (ATA)","Vitória","9,94",3,"3,67","-0,20","-1,31",1,1,NA,NA,1,5,1,NA,NA,NA,NA,NA,NA,NA,NA,4,2,4
+"173","Desábato (MEI)","Vasco","7,20",2,"3,65","0,00","0,00",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4
+"174","Mantuan (LAT)","Corinthians","2,60",1,"3,60","3,60","0,60",4,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,3
+"175","Lucas Fernandes (MEI)","São Paulo","5,24",1,"3,60","0,00","0,00",1,NA,NA,NA,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"176","Valdo (ZAG)","Ceará","6,69",3,"3,50","3,00","0,07",4,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+"177","Luiz Antonio  (MEI)","Chapecoense","6,40",1,"3,50","0,00","0,00",2,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"178","Bruno Pacheco (LAT)","Chapecoense","5,13",2,"3,45","5,70","0,86",2,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,2
+"179","Arnaldo (LAT)","Ceará","5,95",3,"3,43","1,60","-0,63",4,NA,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4
+"180","Thiago Santos (MEI)","Palmeiras","6,07",1,"3,40","3,40","-0,93",2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"181","Ricardo Oliveira (ATA)","Atlético-MG","5,05",3,"3,27","-3,40","-2,60",2,1,1,NA,4,3,1,NA,NA,NA,NA,NA,2,NA,NA,8,4,6
+"182","Bressan (ZAG)","Grêmio","7,35",3,"3,27","-1,40","-1,55",1,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4
+"183","Diego (MEI)","Flamengo","9,73",2,"3,25","5,70","-1,16",1,1,NA,NA,10,3,NA,NA,NA,NA,NA,NA,2,NA,NA,5,3,8
+"184","Borja (ATA)","Palmeiras","11,20",2,"3,20","-1,00","-2,48",3,NA,NA,NA,3,8,NA,NA,NA,NA,NA,NA,1,NA,NA,4,1,5
+"185","Gilson Kleina (TEC)","Chapecoense","6,25",3,"3,19","5,62","1,14",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"186","Diego Alves (GOL)","Flamengo","8,79",2,"3,15","5,20","-0,92",NA,NA,NA,1,1,NA,NA,NA,2,NA,NA,NA,NA,NA,2,NA,NA,4
+"187","Luiz Otávio (ZAG)","Ceará","6,60",3,"3,10","1,20","-0,65",7,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,3,NA,4
+"188","Ralf (MEI)","Corinthians","8,96",1,"3,00","0,00","0,00",2,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"189","Ángel Romero (ATA)","Corinthians","8,88",3,"3,00","1,20","-0,77",5,NA,1,NA,9,4,NA,NA,NA,NA,NA,NA,2,NA,NA,6,NA,14
+"190","Werley (ZAG)","Vasco","5,88",2,"3,00","0,00","0,00",3,NA,NA,NA,2,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"191","Henrique (LAT)","Vasco","6,89",2,"3,00","0,00","0,00",4,NA,NA,NA,4,1,1,NA,NA,NA,NA,NA,1,NA,NA,1,NA,5
+"192","Gustavo Bochecha (MEI)","Botafogo","4,70",2,"3,00","0,00","0,00",6,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,6
+"193","Patric (LAT)","Atlético-MG","5,50",3,"2,93","10,50","3,10",4,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,1,15
+"194","Renato Chaves (ZAG)","Fluminense","5,82",3,"2,93","2,30","-0,28",6,NA,NA,1,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,5,NA,8
+"195","Marcinho (LAT)","Botafogo","5,80",3,"2,93","8,00","2,18",5,NA,1,NA,3,1,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,10
+"196","Henrique (ZAG)","Corinthians","8,10",3,"2,90","1,70","-0,67",2,NA,NA,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"197","Matheus Alessandro (ATA)","Fluminense","3,78",1,"2,90","2,90","-0,22",1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"198","Everton (MEI)","São Paulo","9,13",2,"2,90","6,20","0,86",3,NA,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4
+"199","Apodi (LAT)","Chapecoense","6,33",3,"2,90","8,10","2,17",5,NA,NA,1,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,8,NA,8
+"200","Júnior Brumado (ATA)","Bahia","3,96",3,"2,87","1,10","-0,49",NA,1,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA
+"201","Marcelo Chamusca (TEC)","Ceará","4,15",3,"2,86","1,25","-0,32",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"202","Messias (ZAG)","América-MG","8,04",3,"2,83","0,20","-0,71",4,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5
+"203","Jadson (MEI)","Fluminense","7,90",3,"2,83","-3,30","-2,36",10,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,1,NA,NA,7,NA,11
+"204","Leonardo Valencia (MEI)","Botafogo","6,66",3,"2,83","1,20","-0,57",2,NA,NA,NA,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5
+"205","Bremer (ZAG)","Atlético-MG","4,41",3,"2,80","7,10","1,95",7,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,7,NA,7
+"206","Mateus Vital (MEI)","Corinthians","4,80",3,"2,77","5,40","1,18",3,NA,NA,NA,7,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,4
+"207","Juan (ZAG)","Flamengo","7,83",2,"2,75","5,00","-0,78",1,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"208","Eduardo Sasha (ATA)","Santos","8,41",2,"2,75","0,00","0,00",1,NA,1,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,5
+"209","David Braz (ZAG)","Santos","10,38",2,"2,75","0,00","0,00",1,NA,NA,1,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,1
+"210","Mano Menezes (TEC)","Cruzeiro","9,01",3,"2,71","4,50","0,33",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"211","Rafael Sobis (ATA)","Cruzeiro","6,19",2,"2,70","3,90","-0,35",2,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"212","Ibañez (ZAG)","Fluminense","5,99",1,"2,70","0,00","0,00",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"213","Thiago Martins (ZAG)","Palmeiras","5,30",2,"2,70","6,50","0,55",NA,NA,NA,1,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,2
+"214","Pachu (ATA)","Botafogo","2,55",1,"2,70","0,00","0,00",1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"215","Fábio Santos (LAT)","Atlético-MG","5,99",3,"2,60","7,60","1,75",5,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,1,9
+"216","Renê Júnior (MEI)","Corinthians","6,70",2,"2,60","0,00","0,00",4,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,2
+"217","Pablo (ATA)","Atlético-PR","7,44",3,"2,57","0,00","-0,74",3,1,NA,NA,2,3,NA,NA,NA,NA,NA,NA,1,NA,NA,9,1,4
+"218","Neto Moura (MEI)","Sport","4,10",2,"2,55","3,50","0,61",3,NA,NA,NA,1,2,2,NA,NA,NA,NA,NA,1,NA,NA,2,NA,3
+"219","Raphael Veiga (MEI)","Atlético-PR","6,30",2,"2,50","0,00","-1,28",NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"220","Leandro Vilela (MEI)","Paraná","4,48",1,"2,50","0,00","0,00",3,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,1
+"221","Martín Silva (GOL)","Vasco","10,27",2,"2,50","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,2,NA,NA,NA
+"222","Rogério Micale (TEC)","Paraná","4,65",3,"2,44","3,12","0,43",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"223","Dedé (ZAG)","Cruzeiro","5,86",2,"2,40","0,00","0,00",5,NA,NA,NA,4,1,1,NA,NA,NA,NA,NA,2,NA,NA,3,NA,4
+"224","Carlos Eduardo (MEI)","Paraná","5,10",1,"2,40","0,00","0,00",1,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"225","Edimar (LAT)","São Paulo","3,39",2,"2,35","1,20","-0,20",1,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,2
+"226","Douglas Friedrich (GOL)","Bahia","4,07",3,"2,30","4,70","1,00",NA,NA,NA,2,1,NA,NA,NA,1,NA,NA,NA,1,NA,2,NA,NA,2
+"227","Léo (ZAG)","Cruzeiro","6,15",2,"2,25","0,00","0,00",4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA
+"228","Lucas Lima (MEI)","Palmeiras","7,71",3,"2,23","2,50","-0,43",3,NA,NA,NA,3,1,NA,1,NA,NA,NA,NA,NA,NA,NA,5,NA,2
+"229","Zé Ivaldo (ZAG)","Atlético-PR","2,78",3,"2,20","5,20","1,20",2,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,4,NA,3
+"230","Bruno Henrique (MEI)","Palmeiras","6,87",2,"2,20","0,00","0,00",5,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,3
+"231","Vitor Feijão (ATA)","Paraná","3,74",1,"2,20","0,00","0,00",NA,NA,NA,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"232","Vagner Mancini (TEC)","Vitória","6,33",3,"2,18","2,82","0,11",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"233","Igor Rabello (ZAG)","Botafogo","10,13",3,"2,17","-1,60","-1,79",3,1,NA,NA,2,2,1,NA,NA,NA,1,NA,1,NA,NA,2,NA,6
+"234","Marcelo Hermes (LAT)","Cruzeiro","4,44",2,"2,15","3,30","0,50",3,NA,NA,1,1,2,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,11
+"235","Gabriel (MEI)","Sport","5,14",2,"2,15","0,00","0,00",1,NA,NA,NA,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"236","Frazan (ZAG)","Fluminense","3,22",3,"2,13","0,00","-0,76",2,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,2
+"237","Amaral (MEI)","Chapecoense","5,09",3,"2,10","5,50","1,36",7,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,5
+"238","Jesiel (ZAG)","Paraná","3,90",3,"2,10","2,30","0,24",7,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,4
+"239","Matheus Pereira (MEI)","Paraná","4,39",2,"2,05","1,40","-0,27",3,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"240","Rafael Lima (ZAG)","América-MG","6,79",3,"2,03","2,00","0,02",2,NA,NA,1,NA,2,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,5
+"241","Moisés (MEI)","Palmeiras","6,44",3,"2,00","4,70","0,66",5,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,6
+"242","Eduardo (LAT)","Chapecoense","4,82",1,"2,00","0,00","0,00",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"243","Léo Itaperuna (ATA)","Paraná","3,44",1,"2,00","0,00","0,00",NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"244","Vinicius (ATA)","Chapecoense","4,34",2,"1,95","0,00","0,00",1,NA,NA,NA,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3
+"245","Canteros (MEI)","Chapecoense","6,57",3,"1,93","1,80","-0,13",3,NA,1,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,15
+"246","Geuvânio (ATA)","Flamengo","5,43",2,"1,90","0,00","0,00",2,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,1,4
+"247","Michel (MEI)","Grêmio","4,70",2,"1,90","2,30","-0,47",3,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"248","Kannemann (ZAG)","Grêmio","10,95",1,"1,90","0,00","0,00",2,NA,NA,1,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2,NA,2
+"249","Marcos Vinícius (MEI)","Botafogo","4,24",2,"1,90","3,60","-0,03",2,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"250","Caio Henrique (MEI)","Paraná","3,41",3,"1,90","3,40","0,64",3,NA,NA,NA,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,5,1,7
+"251","Evander (MEI)","Vasco","6,78",2,"1,85","0,00","0,00",3,NA,NA,NA,1,3,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,4
+"252","Sornoza (MEI)","Fluminense","6,57",3,"1,83","-0,80","-0,99",5,NA,NA,NA,2,1,2,NA,NA,NA,NA,NA,1,NA,NA,3,NA,9
+"253","Edigar Junio (ATA)","Bahia","5,86",3,"1,80","2,90","0,13",2,NA,NA,NA,2,1,2,1,NA,NA,NA,NA,NA,NA,NA,5,1,6
+"254","Pavez (MEI)","Atlético-PR","5,35",3,"1,73","0,40","-0,72",4,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,6
+"255","Paulo Victor (GOL)","Grêmio","6,92",1,"1,70","1,70","-2,08",NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,2,NA,NA,1
+"256","Andrigo (MEI)","Sport","5,60",3,"1,70","3,10","0,33",3,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,1,8
+"257","Maicon (MEI)","Grêmio","5,75",2,"1,65","0,00","0,00",2,NA,NA,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"258","Diego Souza (MEI)","São Paulo","9,72",1,"1,60","1,60","-3,28",NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"259","Valdívia (MEI)","São Paulo","7,23",2,"1,60","0,00","0,00",2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"260","Neilton (ATA)","Vitória","7,70",2,"1,60","1,00","-0,97",1,NA,NA,NA,5,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,3
+"261","Lucas Silva (MEI)","Cruzeiro","4,15",1,"1,50","0,00","0,00",NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"262","Marlos (ATA)","Flamengo","4,85",1,"1,50","0,00","0,00",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"263","Madson (LAT)","Grêmio","5,44",1,"1,50","1,50","-1,56",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"264","Danilo Fernandes (GOL)","Internacional","7,00",2,"1,50","5,00","0,81",NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA
+"265","Diego (ATA)","Paraná","4,48",1,"1,50","0,00","0,00",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+"266","Leandro Pereira (ATA)","Chapecoense","4,61",2,"1,50","1,50","-0,24",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"267","Naldo (MEI)","Ceará","3,45",1,"1,50","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"268","Ariel Cabral (MEI)","Cruzeiro","5,02",2,"1,45","1,00","-1,11",4,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,2
+"269","Willian Arão (MEI)","Flamengo","4,58",2,"1,45","0,00","0,00",6,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,7
+"270","Arthur (ATA)","Ceará","4,84",3,"1,43","-0,50","-0,84",2,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,4
+"271","Felipe Azevedo (ATA)","Ceará","4,91",3,"1,43","2,00","-0,18",5,NA,NA,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,13
+"272","Élber (MEI)","Bahia","4,00",1,"1,40","1,40","-1,00",1,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,1,NA,NA,1,NA,4
+"273","Lucas Fernandes (ATA)","Vitória","4,00",1,"1,40","1,40","-1,00",NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"274","Adilson (MEI)","Atlético-MG","4,52",2,"1,35","0,40","-0,67",4,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,6
+"275","Jonas (MEI)","Flamengo","5,11",2,"1,35","1,50","-0,32",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"276","Tréllez (ATA)","São Paulo","6,31",2,"1,35","2,70","-0,02",NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"277","Arthur  (ATA)","Chapecoense","5,24",3,"1,23","-2,20","-1,75",3,NA,NA,NA,3,5,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,6
+"278","Alerrandro (ATA)","Atlético-MG","1,10",1,"1,20","1,20","0,10",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"279","Nenê (MEI)","São Paulo","5,93",3,"1,20","-0,40","-1,23",2,NA,NA,NA,5,3,2,NA,NA,NA,NA,NA,1,NA,NA,4,NA,9
+"280","Rafael Thyere (ZAG)","Chapecoense","2,59",3,"1,20","4,50","1,17",3,NA,NA,1,2,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,3,1,3
+"281","Lucas Romero (MEI)","Cruzeiro","5,00",2,"1,20","2,90","0,29",3,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,7
+"282","Alemão (LAT)","Paraná","4,08",3,"1,17","-0,70","-0,98",4,NA,NA,NA,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,12
+"283","Cícero (MEI)","Grêmio","5,45",2,"1,15","0,00","-1,65",1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"284","Elicarlos (MEI)","Chapecoense","3,77",2,"1,15","2,80","0,46",3,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,NA
+"285","Juninho (MEI)","Ceará","3,61",3,"1,13","-1,60","-1,37",6,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,6,NA,13
+"286","Marcos Junior (ATA)","Fluminense","4,00",3,"1,10","1,90","0,02",1,NA,NA,NA,5,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,1,3
+"287","Mancuello (MEI)","Cruzeiro","3,99",3,"1,10","0,30","-0,46",3,NA,NA,NA,1,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,7
+"288","Jeferson (LAT)","Vitória","4,11",2,"1,10","0,00","0,00",1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA
+"289","Uillian Correia (MEI)","Vitória","4,16",3,"1,07","1,60","-0,08",4,NA,NA,NA,1,1,3,NA,NA,NA,NA,NA,1,NA,NA,6,NA,9
+"290","Ribamar (ATA)","Atlético-PR","4,62",2,"1,05","-0,80","-1,51",NA,NA,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+"291","Ramiro (MEI)","Grêmio","6,25",2,"1,05","0,00","0,00",5,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,2,NA,NA,4,1,4
+"292","Marco Antônio (MEI)","Bahia","1,89",2,"1,05","0,00","0,00",2,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,4
+"293","Pablo Dyego (ATA)","Fluminense","3,05",3,"1,00","-0,50","-0,53",1,NA,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5
+"294","Gabriel (ZAG)","Atlético-MG","5,62",3,"0,87","6,70","1,71",2,NA,NA,1,4,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,3,NA,3
+"295","Willian Farias (MEI)","Vitória","3,59",3,"0,87","2,10","0,34",1,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"296","Guilherme Costa (MEI)","Vitória","2,60",3,"0,87","1,20","0,00",1,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3
+"297","Gabriel Dias (MEI)","Internacional","3,80",2,"0,85","0,00","0,00",1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"298","Rafael Galhardo (LAT)","Vasco","3,28",2,"0,85","0,00","0,00",2,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+"299","Vinícius (MEI)","Bahia","5,25",3,"0,83","1,70","-0,28",NA,NA,NA,NA,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,5
+"300","Júlio César (GOL)","Fluminense","2,55",3,"0,80","1,00","-0,44",NA,NA,NA,1,NA,NA,NA,NA,2,NA,NA,NA,1,NA,3,NA,NA,2
+"301","André (ATA)","Grêmio","8,03",3,"0,80","-2,40","-1,91",1,1,NA,NA,5,1,2,NA,NA,NA,NA,NA,1,NA,NA,8,7,11
+"302","Willian (ATA)","Palmeiras","5,95",3,"0,77","0,00","-0,83",NA,NA,NA,NA,2,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,1
+"303","William Pottker (ATA)","Internacional","2,93",3,"0,73","3,90","0,81",3,NA,NA,NA,3,3,2,NA,NA,NA,NA,NA,1,NA,NA,6,3,7
+"304","Zé Ricardo (MEI)","América-MG","1,08",2,"0,70","1,00","0,12",1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"305","Maicosuel (MEI)","Grêmio","3,47",2,"0,70","1,40","-0,05",NA,NA,NA,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"306","Jailson (MEI)","Grêmio","4,07",2,"0,70","-0,60","-1,44",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"307","Pepê (ATA)","Grêmio","2,35",1,"0,70","0,70","-0,65",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"308","Klaus (ZAG)","Internacional","3,11",1,"0,70","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"309","Rayan (ZAG)","Paraná","2,48",3,"0,70","-0,60","-0,70",1,NA,NA,NA,1,2,1,NA,NA,NA,NA,NA,NA,NA,NA,1,2,4
+"310","Guilherme (ATA)","Chapecoense","4,43",2,"0,70","1,20","-1,22",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"311","Kieza (ATA)","Botafogo","3,52",3,"0,70","0,70","-0,29",2,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,2
+"312","Ferreira (MEI)","Sport","3,27",2,"0,70","-2,50","-1,48",3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,2
+"313","Leandro Damião (ATA)","Internacional","6,48",2,"0,65","-2,00","-1,95",NA,NA,NA,NA,3,4,1,NA,NA,NA,NA,NA,1,NA,NA,3,1,2
+"314","Gerson Magrão (MEI)","América-MG","3,24",2,"0,60","0,00","-1,03",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"315","D'Alessandro (MEI)","Internacional","6,80",3,"0,60","0,50","-0,81",NA,NA,NA,NA,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,11
+"316","Riascos (ATA)","Vasco","4,24",2,"0,55","0,00","0,00",1,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+"317","Roberto (ATA)","Ceará","3,46",3,"0,53","0,90","-0,16",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,3
+"318","Wescley (MEI)","Ceará","2,94",3,"0,53","0,50","-0,25",1,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,4
+"319","Maycon (MEI)","Corinthians","3,64",2,"0,50","1,30","-0,98",3,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,5
+"320","Rafael Marques (ATA)","Cruzeiro","2,10",2,"0,50","1,50","-0,31",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"321","Rossi (ATA)","Internacional","3,79",1,"0,50","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"322","Ernandes (LAT)","Ceará","2,41",1,"0,50","0,00","0,00",NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"323","Robinho (MEI)","Cruzeiro","5,01",3,"0,43","0,20","-0,89",4,NA,NA,NA,6,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,1,14
+"324","Edílson (LAT)","Cruzeiro","9,23",1,"0,40","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,2
+"325","Egídio (LAT)","Cruzeiro","7,85",1,"0,40","0,00","0,00",2,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,2
+"326","Joel Carli (ZAG)","Botafogo","4,31",3,"0,40","-0,10","-0,66",4,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,7
+"327","Matheus Galdezani (MEI)","Atlético-MG","3,85",2,"0,35","-0,80","-1,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"328","Thiago Neves (MEI)","Cruzeiro","12,47",2,"0,30","0,00","0,00",NA,NA,NA,NA,1,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,10
+"329","Luan Viana (ATA)","Paraná","1,51",1,"0,30","0,30","-0,49",NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA
+"330","Richard (GOL)","Paraná","4,18",2,"0,25","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,3,NA,NA,NA
+"331","Diego Pituca (MEI)","Santos","0,70",2,"0,25","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"332","Arthur Gomes (ATA)","Santos","2,63",2,"0,25","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"333","Leandro Donizete (MEI)","América-MG","2,00",2,"0,25","-2,70","-1,46",4,NA,NA,NA,2,NA,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,4
+"334","Douglas Grolli (ZAG)","Bahia","2,89",1,"0,20","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,1
+"335","Lucho González (MEI)","Atlético-PR","4,95",2,"0,20","0,10","-0,80",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,7
+"336","Bruno Henrique (ATA)","Santos","12,75",1,"0,20","0,00","0,00",NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"337","Reina (MEI)","Ceará","2,22",2,"0,15","-1,60","-1,16",NA,NA,NA,NA,2,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,3
+"338","Elias (MEI)","Atlético-MG","5,48",3,"0,10","-0,50","-1,05",2,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,4
+"339","Rildo (ATA)","Vasco","2,99",2,"0,10","0,00","0,00",NA,NA,NA,NA,8,2,NA,NA,NA,NA,NA,NA,1,NA,NA,1,1,8
+"340","Alex Baumjohann (MEI)","Vitória","2,12",2,"0,10","0,00","0,00",NA,NA,NA,NA,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,1
+"341","Ramon (ZAG)","Vitória","2,24",3,"0,07","2,50","0,58",4,NA,NA,NA,1,2,NA,NA,NA,NA,NA,NA,2,NA,NA,6,NA,3
+"342","Márcio Araújo (MEI)","Chapecoense","2,33",2,"0,05","1,90","-0,56",2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,3
+"343","Wellington (MEI)","Vasco","3,16",2,"0,05","0,00","0,00",1,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,1,NA,NA,1,NA,3
+"344","Mena (LAT)","Bahia","10,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"345","Bruno Silva (ATA)","Chapecoense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"346","João Ricardo (GOL)","América-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"347","Aderlan (LAT)","América-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"348","Ruy (MEI)","América-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"349","Michel (LAT)","América-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"350","Shaylon (MEI)","São Paulo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"351","Glauco (GOL)","América-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"352","Matheus Santos (ATA)","América-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"353","Erick (GOL)","América-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"354","Roger Bernardo (MEI)","Atlético-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"355","Arouca (MEI)","Atlético-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"356","Giovanni (GOL)","Atlético-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"357","Ronaldo (LAT)","América-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"358","Leonardo Silva (ZAG)","Atlético-MG","12,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"359","Matheus Mancini (ZAG)","Atlético-MG","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"360","Hyuri (ATA)","Atlético-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"361","Clayton (ATA)","Atlético-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"362","Igor Campos (GOL)","Chapecoense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"363","Uilson (GOL)","Atlético-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"364","Lucas Cândido (MEI)","Atlético-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"365","Iago Maidana (ZAG)","Atlético-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"366","Michael (GOL)","Atlético-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"367","Tomás Andrade (MEI)","Atlético-MG","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"368","Cleiton (GOL)","Atlético-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"369","Marco Túlio (ATA)","Atlético-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"370","Fernando (GOL)","Atlético-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"371","Lima (ZAG)","América-MG","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"372","Marquinhos (MEI)","Atlético-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"373","Matheus Ferraz (ZAG)","América-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"374","Fernando Leal (GOL)","América-MG","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"375","Samuel Xavier (LAT)","Atlético-MG","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"376","Renan Oliveira (MEI)","América-MG","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"377","Matheusinho (MEI)","América-MG","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"378","David (MEI)","América-MG","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"379","Leo (GOL)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"380","Felipe Alves (GOL)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"381","Léo Pereira (ZAG)","Atlético-PR","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"382","Wanderson (ZAG)","Atlético-PR","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"383","Felipe Gedoz  (MEI)","Atlético-PR","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"384","João Pedro (MEI)","Atlético-PR","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"385","Alex (MEI)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"386","Giovanny  (ATA)","Atlético-PR","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"387","Diego (LAT)","Atlético-PR","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"388","Cascardo (LAT)","Atlético-PR","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"389","Marcinho (ATA)","Atlético-PR","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"390","Júnior Santos (ATA)","Chapecoense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"391","Danilo (MEI)","Corinthians","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"392","Yago (ATA)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"393","Renan Lodi (LAT)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"394","Nicolas (LAT)","Atlético-PR","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"395","Ronaldo (MEI)","Flamengo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"396","Matheus Anjos (MEI)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"397","Vilson (ZAG)","Corinthians","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"398","Marcelo (ATA)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"399","Giovanni (LAT)","América-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"400","Riuler (LAT)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"401","Walter (GOL)","Corinthians","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"402","Caio (GOL)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"403","Alexsander (MEI)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"404","Júnior Dutra (ATA)","Corinthians","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"405","Marllon (ZAG)","Corinthians","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"406","Paulo Roberto (MEI)","Corinthians","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"407","Matheus Vidotto (GOL)","Corinthians","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"408","Bruno Roberto (MEI)","Atlético-MG","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"409","Bergson (ATA)","Atlético-PR","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"410","Deivid (MEI)","Atlético-PR","2,76",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"411","Pedro Henrique (ZAG)","Corinthians","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"412","Felipe Vizeu (ATA)","Flamengo","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"413","Jean (MEI)","Botafogo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"414","Caíque França (GOL)","Corinthians","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"415","Léo Principe (LAT)","Corinthians","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"416","Daniel  (ZAG)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"417","Juninho Capixaba (LAT)","Corinthians","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"418","Vitor Naum (ATA)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"419","Léo Santos (ZAG)","Corinthians","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"420","Leonardo Simas (LAT)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"421","Weverton Almeida (ZAG)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"422","Demethryus (MEI)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"423","Guilherme Ribeiro (MEI)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"424","Gabriel (GOL)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"425","Matheus Matias (ATA)","Corinthians","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"426","Nilton (MEI)","Bahia","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"427","Bruno Leite (MEI)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"428","Anderson (GOL)","Bahia","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"429","Filipe (GOL)","Corinthians","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"430","Lucas Halter (ZAG)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"431","Kazim (ATA)","Corinthians","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"432","Kayke (ATA)","Bahia","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"433","Carlos Augusto (LAT)","Corinthians","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"434","Fred (ATA)","Cruzeiro","16,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"435","Jackson (ZAG)","Bahia","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"436","Digão (ZAG)","Cruzeiro","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"437","Trauco (LAT)","Flamengo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"438","Rafael (ZAG)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"439","Hugo Souza (GOL)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"440","Michael (LAT)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"441","Matheus Dantas (ZAG)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"442","Hugo Moura (MEI)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"443","Wendel (ATA)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"444","Pepê (MEI)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"445","Vitor Gabriel (ATA)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"446","Ramon (LAT)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"447","Airton (MEI)","Fluminense","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"448","Patrick (ZAG)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"449","Marlon (LAT)","Fluminense","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"450","Marcos Felipe  (GOL)","Fluminense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"451","Rodolfo (GOL)","Fluminense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"452","Douglas (MEI)","Fluminense","3,52",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"453","Marlon Freitas (MEI)","Fluminense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"454","De Amores (GOL)","Fluminense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"455","Luquinhas (MEI)","Fluminense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"456","Mateus Norton (MEI)","Fluminense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"457","Marcos Calazans (ATA)","Fluminense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"458","Arthur (ZAG)","Cruzeiro","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"459","Felipe (ATA)","Fluminense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"460","Victor Luiz (LAT)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"461","Judivan  (ATA)","América-MG","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"462","Nonoca (MEI)","Sport","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"463","Vitor Eudes (GOL)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"464","Lucas Soares (LAT)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"465","Cacá (ZAG)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"466","Vander (MEI)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"467","Rhodolfo (ZAG)","Flamengo","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"468","Marcelo (ATA)","Cruzeiro","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"469","Pará (LAT)","Flamengo","3,44",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"470","Romulo (MEI)","Flamengo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"471","Ederson (MEI)","Flamengo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"472","Caio (MEI)","Fluminense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"473","João Vitor (LAT)","Fluminense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"474","César (GOL)","Flamengo","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"475","Lucas França (GOL)","Cruzeiro","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"476","Paolo Guerrero (ATA)","Flamengo","15,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"477","Dudu (ATA)","Fluminense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"478","Thiago (GOL)","Flamengo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"479","Jajá (MEI)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"480","Macula (ATA)","Fluminense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"481","Berrío  (ATA)","Flamengo","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"482","Douglas (MEI)","Grêmio","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"483","Leonardo (LAT)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"484","Léo (GOL)","Grêmio","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"485","Bruno Grassi (GOL)","Grêmio","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"486","Gabriel (ZAG)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"487","Thaciano (MEI)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"488","Balbino (MEI)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"489","Léo Tilica (ATA)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"490","Kaio (MEI)","Grêmio","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"491","Vico (ATA)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"492","Estevão (MEI)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"493","Hernane (ATA)","Grêmio","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"494","Lima (MEI)","Grêmio","1,41",1,"0,00","0,00","-0,59",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"495","Jean Pyerre (MEI)","Grêmio","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"496","Dionathã (ATA)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"497","Jadson (ATA)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"498","Patrick (MEI)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"499","Esperon (MEI)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"500","Lucas Poletto (ATA)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"501","Guilherme Guedes (LAT)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"502","Matheus Henrique (MEI)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"503","Tchê Tchê (MEI)","Palmeiras","8,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"504","Felipe (LAT)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"505","Brenno (GOL)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"506","Emanuel (ZAG)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"507","Marcinho (ATA)","Internacional","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"508","Ruan (ZAG)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"509","Ericson (ZAG)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"510","Keiller (GOL)","Internacional","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"511","Ruan (LAT)","Internacional","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"512","Lucas Araújo (MEI)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"513","Marco Saravia (ZAG)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"514","Charles (MEI)","Internacional","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"515","Dudu (LAT)","Internacional","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"516","Juan Alano (MEI)","Internacional","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"517","Ronald (ATA)","Internacional","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"518","Mendonça (ZAG)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"519","Rodrigo Ancheta (MEI)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"520","Daniel (GOL)","Internacional","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"521","Santiago (ZAG)","Grêmio","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"522","Fernandinho (ATA)","Internacional","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"523","Isaque (MEI)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"524","Richard (MEI)","Internacional","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"525","Michel Bastos (MEI)","Sport","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"526","Thonny Anderson (MEI)","Grêmio","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"527","Roger (ATA)","Corinthians","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"528","Marcelinho (ATA)","Grêmio","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"529","Jean (LAT)","Palmeiras","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"530","Fernando Prass (GOL)","Palmeiras","12,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"531","Caíque (ATA)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"532","Emerson Santos (ZAG)","Palmeiras","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"533","Uendel (LAT)","Internacional","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"534","Luan (ZAG)","Palmeiras","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"535","Danilo Silva (ZAG)","Internacional","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"536","Mayke (LAT)","Palmeiras","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"537","Hyoran (MEI)","Palmeiras","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"538","Victor Luis (LAT)","Palmeiras","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"539","Juninho (ZAG)","Atlético-MG","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"540","Gabriel Furtado (MEI)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"541","Zezinho (MEI)","Paraná","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"542","Daniel Fuzato (GOL)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"543","Yan (MEI)","Palmeiras","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"544","Pedrão (ZAG)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"545","Fernando (ATA)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"546","Artur (ATA)","Palmeiras","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"547","Vitão (ZAG)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"548","Léo Passos (ATA)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"549","Alanzinho (MEI)","Palmeiras","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"550","Seijas (MEI)","Internacional","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"551","Luan Cândido (LAT)","Palmeiras","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"552","Papagaio (ATA)","Palmeiras","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"553","Aníbal (ATA)","Palmeiras","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"554","Fabinho (MEI)","Internacional","3,52",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"555","Guilherme Vieira (ATA)","Palmeiras","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"556","Rafael (ZAG)","Paraná","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"557","Thales  (ZAG)","Internacional","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"558","Wellington Silva (ATA)","Internacional","2,83",1,"0,00","0,00","-1,17",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"559","Felipe Augusto (ATA)","Paraná","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"560","Esteves (LAT)","Palmeiras","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"561","Thiago Rodrigues (GOL)","Paraná","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"562","Torito González (MEI)","Paraná","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"563","Charles (ZAG)","Paraná","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"564","Neris (ZAG)","Paraná","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"565","Guilherme Biteco (MEI)","Paraná","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"566","Alex Santana (MEI)","Paraná","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"567","Vecchio (MEI)","Santos","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"568","Vladimir (GOL)","Santos","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"569","Victor Ferraz (LAT)","Santos","11,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"570","Gustavo Henrique (ZAG)","Santos","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"571","Luiz Felipe (ZAG)","Santos","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"572","Copete (ATA)","Santos","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"573","João Paulo (GOL)","Santos","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"574","Yuri (MEI)","Santos","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"575","Caju (LAT)","Santos","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"576","John Victor (GOL)","Santos","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"577","Diogo Vitor (ATA)","Santos","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"578","Igor (LAT)","Paraná","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"579","Matheus Guedes (ZAG)","Santos","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"580","Báez (LAT)","Paraná","1,77",2,"0,00","0,50","-0,64",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"581","Minho (ATA)","Paraná","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"582","Robson Bambu (ZAG)","Santos","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"583","Yuri Alberto (ATA)","Santos","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"584","Emerson Barbosa (LAT)","Santos","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"585","Lucas Lourenço (MEI)","Santos","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"586","Júnior (LAT)","Paraná","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"587","Jhony (MEI)","Paraná","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"588","Gabriel Calabres (MEI)","Santos","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"589","Guilherme Nunes (MEI)","Santos","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"590","Anderson Martins (ZAG)","São Paulo","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"591","Gabriel Pires (MEI)","Paraná","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"592","Rodrigo Carioca (ATA)","Paraná","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"593","Bruno (LAT)","São Paulo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"594","Warley (MEI)","Paraná","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"595","Murillo Lopes (GOL)","Paraná","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"596","Renato (MEI)","Santos","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"597","Reinaldo (LAT)","São Paulo","12,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"598","Morato (ATA)","São Paulo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"599","Douglas Coutinho  (ATA)","Ceará","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"600","Leandro Canhoto (MEI)","Ceará","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"601","Romário Rodrigues (ATA)","Ceará","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"602","Luidy (ATA)","Ceará","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"603","Raul (MEI)","Ceará","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"604","Patrick (ZAG)","Ceará","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"605","Rafinha (MEI)","Ceará","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"606","Felipe Jonatan (LAT)","Ceará","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"607","Matheus Lira (MEI)","Ceará","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"608","Alan Ruschel (MEI)","Chapecoense","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"609","Nenén (MEI)","Chapecoense","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"610","Moisés Ribeiro (MEI)","Chapecoense","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"611","Nery Bareiro (ZAG)","Chapecoense","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"612","Osman (ATA)","Chapecoense","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"613","Ivan (GOL)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"614","Gabriel Batista (GOL)","Flamengo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"615","Lucas Silva (ATA)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"616","Fabrício Bruno (ZAG)","Chapecoense","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"617","Elias (GOL)","Chapecoense","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"618","Neto (ZAG)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"619","Thuler (ZAG)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"620","Perotti (ATA)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"621","Kleber (LAT)","Flamengo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"622","Hiago (ZAG)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"623","Pablo Maldini (LAT)","Flamengo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"624","Tiepo (GOL)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"625","Bruno (LAT)","Chapecoense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"626","Kendy (ATA)","Chapecoense","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"627","Thomás (MEI)","Sport","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"628","Oswaldo Henríquez (ZAG)","Sport","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"629","Khevin (MEI)","Chapecoense","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"630","Felipe Rodrigues (LAT)","Sport","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"631","Índio (ATA)","Sport","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"632","Evandro (LAT)","Sport","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"633","Fabrício (MEI)","Sport","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"634","Juninho Piauiense (ATA)","Ceará","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"635","Lucas Ferreira (GOL)","Sport","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"636","Marcelo Mattos (MEI)","Vasco","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"637","Caio Monteiro (ATA)","Vasco","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"638","Paulo Vitor (ATA)","Vasco","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"639","Mikael (ATA)","Sport","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"640","Fabrício (LAT)","Vasco","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"641","Adryelson (ZAG)","Sport","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"642","Paulinho (ATA)","Vasco","8,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"643","Bruno Cosendey (MEI)","Vasco","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"644","Breno (ZAG)","Vasco","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"645","Ricardo (ZAG)","Vasco","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"646","Lucas Santos (MEI)","Vasco","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"647","Rafael França (ZAG)","Vasco","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"648","Cleiton Xavier (MEI)","Vitória","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"649","Giovanni Augusto (MEI)","Vasco","8,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"650","João Pedro (GOL)","Vasco","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"651","Kelvin (ATA)","Vasco","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"652","Lucas (LAT)","Vitória","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"653","Erazo (ZAG)","Vasco","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"654","Luiz Gustavo (ZAG)","Vasco","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"655","André Lima (ATA)","Vitória","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"656","Juninho (LAT)","Vitória","3,44",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"657","Fillipe Soutto (MEI)","Vitória","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"658","Bruno Paulista (MEI)","Vasco","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"659","Fernando Miguel (GOL)","Vitória","9,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"660","Bruno Silva (MEI)","Vasco","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"661","Gabriel Félix (GOL)","Vasco","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"662","Bryan (LAT)","Vitória","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"663","Ramon (LAT)","Vasco","10,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"664","Walisson Maia (ZAG)","Vitória","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"665","Andrey (MEI)","Vasco","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"666","Alan Cardoso (LAT)","Vasco","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"667","Vinicius (ZAG)","Vitória","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"668","Jonatas Belusso (ATA)","Vitória","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"669","Nickson (MEI)","Vitória","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"670","Bruno Bispo (ZAG)","Vitória","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"671","Pablo Pardal (MEI)","Sport","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"672","Ronaldo (GOL)","Vitória","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"673","Lucas Marques (MEI)","Vitória","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"674","Edson (MEI)","Bahia","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"675","Luís Fernando (MEI)","Bahia","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"676","Deijair  (GOL)","Bahia","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"677","João Pedro  (LAT)","Bahia","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"678","Geovane Itinga (ATA)","Bahia","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"679","Felipe (GOL)","Bahia","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"680","Cassiano (GOL)","Bahia","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"681","Cedric (LAT)","Vitória","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"682","Jhemerson (MEI)","Vitória","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"683","Dudu Cearense (MEI)","Botafogo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"684","Linik (MEI)","Vitória","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"685","Léo Gomes (MEI)","Vitória","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"686","João Pedro Ribeiro (LAT)","Bahia","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"687","Alan (ZAG)","Ceará","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"688","Luan (MEI)","Vitória","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"689","João Paulo (MEI)","Botafogo","10,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"690","Luis Ricardo (LAT)","Botafogo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"691","Tiago Cunha (ATA)","Ceará","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"692","Maurício (MEI)","Ceará","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"693","Caio (LAT)","Sport","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"694","Luis David (ATA)","Ceará","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"695","Aguirre (ATA)","Botafogo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"696","Lucas Macanhan (GOL)","Atlético-PR","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"697","Ademir (ATA)","América-MG","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"698","Lucas (MEI)","Vasco","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"699","Luis Henrique (ATA)","Grêmio","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"700","Carneiro (ATA)","São Paulo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"701","Baralhas (MEI)","Atlético-PR","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"702","Léo Xavier (ZAG)","Vitória","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"703","Max (ZAG)","Sport","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"704","Ricardo Silva (ZAG)","América-MG","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"705","Éder  (ZAG)","Atlético-PR","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"706","Dodi (MEI)","Fluminense","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"707","Yuri (LAT)","Botafogo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"708","Patrick Brey (LAT)","Cruzeiro","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"709","Zeca (LAT)","Internacional","10,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"710","Renan (GOL)","Ceará","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"711","Flávio (MEI)","Bahia","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"712","Thiaguinho (MEI)","Corinthians","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"713","Yago (ZAG)","Botafogo","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"714","Bruno Xavier (ATA)","Corinthians","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"715","Luiz Fernando  (MEI)","Botafogo","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"716","Moisés (LAT)","Botafogo","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"717","Marcelo (MEI)","Botafogo","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"718","Saulo (GOL)","Botafogo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"719","Leandrinho (MEI)","Botafogo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"720","Marcelo Benevenuto (ZAG)","Botafogo","8,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"721","Kanu (ZAG)","Botafogo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"722","Júnior (ATA)","Vitória","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"723","Flávio (ATA)","Vitória","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"724","Lucas Campos (ATA)","Botafogo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"725","Rafael Pereira (ZAG)","Ceará","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"726","Helerson (ZAG)","Botafogo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"727","Fernando Henrique (GOL)","Ceará","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"728","Jackson Caucaia (MEI)","Ceará","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"729","Alex Amado (ATA)","Ceará","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"730","Bruno Pires (ZAG)","Ceará","4,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"731","Leandro Silva (LAT)","Ceará","7,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"732","Ricardinho (MEI)","Ceará","4,82",1,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"733","Felipinho (MEI)","Bahia","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"734","Jean (GOL)","São Paulo","8,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"735","Paulinho (ATA)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"736","Araruna (MEI)","São Paulo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"737","Lucas Perri (GOL)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"738","Bissoli (ATA)","São Paulo","2,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"739","Igor Gomes (MEI)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"740","Gabriel (MEI)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"741","Magrão (GOL)","Sport","10,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"742","Durval (ZAG)","Sport","6,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"743","Paulo Henrique (MEI)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"744","Pedro Ken (MEI)","Ceará","5,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"745","Lucas Paes (GOL)","São Paulo","1,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"746","Toró (ATA)","São Paulo","3,00",0,"0,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"747","Allione (MEI)","Bahia","4,39",2,"-0,05","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"748","Ronaldo Alves (ZAG)","Sport","4,19",2,"-0,05","-1,10","-1,16",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+"749","Jadson (MEI)","Corinthians","8,40",1,"-0,10","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"750","Carlos Henrique (ATA)","Sport","2,79",1,"-0,10","-0,10","-1,21",NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,2
+"751","Marquinhos Gabriel (MEI)","Corinthians","3,51",2,"-0,15","-0,30","-0,71",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,1
+"752","Nadson (MEI)","Chapecoense","1,84",2,"-0,20","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+"753","Ernando (ZAG)","Sport","3,28",3,"-0,23","-0,90","-0,86",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+"754","Jean Lucas (MEI)","Flamengo","1,04",2,"-0,25","0,00","-0,16",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"755","Hygor (ATA)","Sport","0,70",2,"-0,25","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,1,NA
+"756","David (ATA)","Cruzeiro","4,02",2,"-0,30","-0,40","-0,82",NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,6
+"757","Jael (ATA)","Grêmio","3,39",1,"-0,30","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"758","Brenner (ATA)","Internacional","0,69",1,"-0,30","0,00","0,00",NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA
+"759","Vitor Bueno (MEI)","Santos","7,37",1,"-0,30","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"760","Raniel (ATA)","Cruzeiro","4,85",1,"-0,30","-0,30","-2,15",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,1
+"761","Elton (ATA)","Ceará","4,80",1,"-0,30","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"762","Felipe Melo (MEI)","Palmeiras","2,97",3,"-0,33","-0,20","-0,46",4,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,5,NA,11
+"763","Wesley Dias (MEI)","Paraná","1,09",3,"-0,33","-0,60","-0,37",1,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,10
+"764","Romário  (LAT)","Ceará","2,70",1,"-0,40","-0,40","-1,30",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,3
+"765","Rodrigo Pimpão (ATA)","Botafogo","3,44",3,"-0,43","0,70","-0,22",1,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,7
+"766","José Welison (MEI)","Vitória","2,72",2,"-0,45","-1,60","-1,09",3,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,7,NA,8
+"767","Capixaba (ATA)","América-MG","2,60",1,"-0,50","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"768","Wesley (MEI)","América-MG","3,10",1,"-0,50","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"769","Fábio (GOL)","Cruzeiro","7,68",2,"-0,50","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,2,NA,NA,NA
+"770","Marcelo Oliveira (LAT)","Grêmio","2,66",1,"-0,50","-0,50","-1,34",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,3,NA,NA
+"771","Camilo (MEI)","Internacional","4,01",1,"-0,50","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,5
+"772","Lincoln (ATA)","Flamengo","2,66",1,"-0,50","-0,50","-1,34",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"773","João Carlos (ATA)","Fluminense","1,03",1,"-0,50","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA
+"774","Pedrinho (MEI)","Corinthians","2,20",2,"-0,60","0,00","0,00",NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,4
+"775","Rafinha (MEI)","Cruzeiro","7,49",1,"-0,60","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+"776","Gilberto  (LAT)","Fluminense","3,13",2,"-0,60","0,00","0,00",1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,3,NA,4
+"777","Éverton Ribeiro (MEI)","Flamengo","2,47",2,"-0,60","4,60","-0,42",2,NA,NA,NA,4,NA,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,3
+"778","Deyverson (ATA)","Palmeiras","2,20",3,"-0,63","-2,80","-1,40",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1,NA,3
+"779","Sassá (ATA)","Cruzeiro","2,64",2,"-0,65","0,00","0,00",1,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,6,NA,1
+"780","Régis (MEI)","Bahia","2,16",3,"-0,80","0,50","-0,08",NA,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,4
+"781","Kanu (ZAG)","Vitória","1,94",3,"-0,83","-1,00","-0,79",2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,6,1,NA
+"782","Brenner (ATA)","São Paulo","2,76",1,"-1,00","0,00","0,00",NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,2,1
+"783","Thiago Santos (ATA)","Paraná","1,38",1,"-1,00","0,00","0,00",1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,1,NA
+"784","Erik (ATA)","Atlético-MG","2,50",2,"-1,05","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,1,2
+"785","Claudio Winck (LAT)","Sport","0,85",2,"-1,45","-1,10","-1,35",1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,4,NA,3
+"786","Léo Ortiz (ZAG)","Sport","3,10",1,"-1,50","0,00","0,00",1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,NA
+"787","Camacho (MEI)","Atlético-PR","3,22",2,"-1,55","0,00","0,00",3,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,2,NA,7
+"788","Caíque (GOL)","Vitória","0,71",3,"-1,70","-1,30","0,01",NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,1,NA,6,NA,NA,2
+"789","Jefferson (GOL)","Botafogo","7,72",1,"-2,30","-2,30","-4,28",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,1
+"790","Rodrigo Andrade (MEI)","Vitória","0,69",1,"-2,70","0,00","0,00",NA,NA,NA,NA,NA,1,1,NA,NA,NA,NA,NA,1,NA,NA,3,NA,4
+"791","Yago (MEI)","Atlético-MG","0,69",1,"-3,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,2,NA,NA
+"792","Luis Carlos (GOL)","Paraná","0,70",1,"-4,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA
+"793","David (GOL)","Paraná","0,71",1,"-4,00","-4,00","-1,29",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA
+"794","Agenor (GOL)","Sport","0,69",1,"-6,00","0,00","0,00",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA
