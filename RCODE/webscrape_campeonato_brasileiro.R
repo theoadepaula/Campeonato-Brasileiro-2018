@@ -1,7 +1,7 @@
 library(RSelenium)
 library(rvest)
 library(tidyverse)
-rD= rsDriver(port=4444L)
+rD= rsDriver(port=4444L, browser = "firefox")
 remDr <- rD[["client"]]
 
 remDr$navigate("https://www.cartolafcbrasil.com.br/scouts/cartola-fc-2018/rodada-1")
